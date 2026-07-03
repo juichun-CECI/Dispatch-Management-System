@@ -1,0 +1,6 @@
+{
+  "name": "花蓮縣派工管理系統",
+  "description": "提供花蓮縣號誌化路口列表選單、模糊搜尋、需求分類、地圖式狀態看板、多圖層切換 (動態連線、保固狀態、派工案件) 與詳細資訊查看的明亮風格派工管理系統儀表板。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
